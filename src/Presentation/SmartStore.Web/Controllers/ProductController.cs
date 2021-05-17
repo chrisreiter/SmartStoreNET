@@ -127,6 +127,7 @@ namespace SmartStore.Web.Controllers
             _productAttributeParser = productAttributeParser;
             _productUrlHelper = productUrlHelper;
             _productAttributeFormatter = productAttributeFormatter;
+
         }
 
         #region Products
